@@ -70,13 +70,13 @@
 	width: 50%;
 }
 
-.footer-widget .col-sm-2{
+.footer-widget .col-sm-4{
 	width: 33%;
 	display: inline-block;
 	margin-bottom: 50px;
 }
 
-.footer-widget .col-sm-3{
+.footer-widget .col-sm-4{
 	display: inline-block;
 	width: 40%;
 }
@@ -256,7 +256,7 @@ ul.sub-menu{
 	height: 300px;
 	
 }
-.footer-widget .col-sm-3{
+.footer-widget .col-sm-{
 	display: inline-block;
 }
 
@@ -436,7 +436,7 @@ ul.sub-menu{
 	
 }
 
-.footer-widget .col-sm-2 {
+.footer-widget .col-sm-12 {
 	width: 50%;
 	display: flex;
 	margin-bottom: 50px;

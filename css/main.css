@@ -356,7 +356,7 @@ ul.sub-menu {
 }
 
 .companyinfo {
-  margin-top: 57px;
+  margin-top: 200px;
 }
 
 .companyinfo h2 {
@@ -367,7 +367,7 @@ ul.sub-menu {
 }
 
 .companyinfo h2  span{
-  color:#FE980F;
+  color:#e48407;
 }
 
 .companyinfo p {
@@ -466,12 +466,12 @@ ul.sub-menu {
 }
 
 .footer-widget {
-  margin-bottom: 68px;
+  margin-bottom: 48px;
 }
 
 .footer-widget .container {
   border-top: 1px solid #FFFFFF;
-  padding-top: 15px;
+  padding-top: 30px;
 }
 
 .single-widget h2 {
@@ -479,7 +479,7 @@ ul.sub-menu {
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-weight: 500;
-  margin-bottom: 22px;
+  margin-bottom: 12px;
   text-transform: uppercase;
 }
 
@@ -492,7 +492,7 @@ ul.sub-menu {
 	font-family: 'Roboto', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
-	padding: 5px 0;
+	padding: 3px 0;
 }
 
 .single-widget ul li a i {
@@ -837,7 +837,7 @@ h2.title:before{
 h2.title {
   color: #FE980F;
   font-family: 'Roboto', sans-serif;
-  font-size: 18px;
+  font-size: 30px;
   font-weight: 700;
   margin: 0 15px;
   text-transform: uppercase;
