@@ -5,8 +5,7 @@
 
 /* md */
 @media (min-width: 992px) and (max-width: 1199px) {
- 
- 
+}
 .usa{
 	margin-right: 0;
 } 
@@ -243,6 +242,7 @@ ul.sub-menu{
 	float: left;
 }
 
+
 .footer-widget .col-sm-2 {
 	width: 28%;
 	display: flex;
@@ -251,11 +251,11 @@ ul.sub-menu{
 	float: left;
 	margin-left: 30px;
 }
-
 .companyinfo{
 	text-align: center;
+	height: 300px;
+	
 }
-
 .footer-widget .col-sm-3{
 	display: inline-block;
 }
@@ -424,15 +424,16 @@ ul.sub-menu{
 
 .companyinfo h2, .companyinfo p{
 	text-align: center;
-}
+}   
 
 .video-gallery{
 	margin-top: 30px;
 }
 
 .footer-bottom p{
-	font-size: 13px;
+	font-size: 5px;
 	text-align: center;
+	
 }
 
 .footer-widget .col-sm-2 {
